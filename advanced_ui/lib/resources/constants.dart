@@ -1,0 +1,1 @@
+const String ASSET_IMAGE_PATH = "assets/images/" ;
